@@ -16,7 +16,6 @@ The "World Energy Consumption Visualized" project aims to offer a comprehensive 
 
 The project utilizes a robust dataset provided by *[Our World in Data](https://ourworldindata.org/energy)*, encompassing key metrics such as energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix, and more. The dataset is regularly updated and serves as a foundation for the visualizations presented in this project.
 
-ref: [Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption?resource=download)
 
 ## ****Visualizations Overview****
 
@@ -25,7 +24,6 @@ ref: [Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consump
 - **Objective:** Conveys the global distribution of GDP by color-coding countries on a choropleth map.
 - **Insights:** Immediate visualization of countries' economic strengths and disparities, facilitating comparative analysis of GDP distribution globally.
 
-    ![Screenshot 2023-12-08 at 9.35.35 PM.png](img/WorldChoroplethMap.png)
 
 
 ### **2. Pareto Chart**
@@ -33,15 +31,11 @@ ref: [Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consump
 - **Objective:** Illustrates the relationship between a country's GDP and energy consumption over time.
 - **Insights:** Allows for the correlation analysis between GDP and energy consumption trends, offering a comparative view for selected countries.
 
-    ![Screenshot 2023-12-08 at 9.37.18 PM.png](img/ParetoChart.png)
-
 
 ### **3. Bubble Chart**
 
 - **Objective:** Compares fossil fuel consumption, renewable energy consumption, and GDP for the top 5 most populous countries.
 - **Insights:** Provides a comparative analysis of fossil fuel and renewable energy consumption, exploring the relationship between energy consumption, GDP, and environmental sustainability.
-
-    ![Screenshot 2023-12-08 at 9.38.00 PM.png](img/BubbleChart.png)
 
 
 ### **4. Stacked Area Chart**
@@ -49,7 +43,6 @@ ref: [Kaggle](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consump
 - **Objective:** Displays the composition of energy production for a selected country over time.
 - **Insights:** Reveals trends in energy source distribution over the years and allows for a comparative analysis of the contribution of each energy type.
 
-    ![Screenshot 2023-12-08 at 9.38.47 PM.png](img/StackedAreaChart.png)
 
 
 # ****Installation****
