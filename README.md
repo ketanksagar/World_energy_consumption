@@ -148,11 +148,3 @@ These references have been instrumental in shaping and implementing the visualiz
 The "World Energy Consumption Visualized" project is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 This license grants users the freedom to use, modify, and distribute the software, subject to the conditions outlined in the MIT License. It ensures that users can freely interact with and build upon the project while providing proper attribution to the original authors.
-
-# ****Contributors****
-
-The "World Energy Consumption Visualized" project has been made possible through the collaborative efforts of the following contributors:
-
-1. [Pradyoth S P](https://www.linkedin.com/in/pradyothsp/)
-2. [Jeevan Ravi Kumar](https://www.linkedin.com/in/jeevan-achar/)
-3. [Thanay Geeshpathy Narayanamurthy](https://www.linkedin.com/in/gnm-thanay/)
