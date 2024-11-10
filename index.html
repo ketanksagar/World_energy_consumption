@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Globe Visualization with D3.js Slider</title>
+    <script src="https://unpkg.com/d3@7"></script>
+    <script src="https://unpkg.com/globe.gl@2"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <!-- Big Heading for "World Energy" -->
+    <h1 id="mainHeading">World Energy Consumption and GDP Analysis</h1>
+
+    <div class="container">
+        <!-- Dropdown for Selecting Year -->
+        <div>
+            <label for="yearDropdown">Select Year:</label>
+            <select id="yearDropdown"></select>
+        </div>
+        <div id="legend"></div>
+        <!-- Globe Visualization Container -->
+        <div id="globeViz"></div>
+    </div>
+
+    <!-- Wrap the chart in a container div -->
+    <div id="globe-chart-container">
+        <script src="js/script.js"></script>
+    </div>
+
+</body>
+
+</html>
